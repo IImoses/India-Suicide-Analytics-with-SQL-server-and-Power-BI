@@ -1,0 +1,1 @@
+# India-Suicide-Analytics-with-SQL-server-and-Power-BI
